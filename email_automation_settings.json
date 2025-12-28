@@ -1,0 +1,19 @@
+{
+  "smtp_settings": {
+    "smtp_server": "smtp.yourserver.com",
+    "smtp_port": 465,
+    "sender_email": "user@example.com",
+    "sender_password": "password",
+    "use_tls": true,
+    "use_ssl": true
+  },
+  "sending_settings": {
+    "delay_between_emails": 5,
+    "max_emails_per_batch": 50,
+    "your_name": "King",
+    "bracket_style": "((double brackets))",
+    "bracket_syle": "((double brackets))"
+  },
+  "email_template": "Hey ((Name))!\n\nI was impressed by your work at ((Company)) and would love to explore potential collaboration opportunities.\n\nWould you be available for a brief call next week?\n\nKind regards,\n((YourName)).",
+  "email_subject": "Wonderful opportunity for cybersecurity"
+}
