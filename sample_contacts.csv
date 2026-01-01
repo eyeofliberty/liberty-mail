@@ -1,0 +1,6 @@
+Name,Surname,CompanyName,Email,Sex,Position,Industry,Location,Phone,LastContact
+John,Smith,TechCorp,john.smith@techcorp.com,Male,CEO,Technology,New York,+1-555-0101,2023-10-15
+Maria,Garcia,InnovateLabs,maria.g@innovatelabs.com,Female,CTO,Biotech,Boston,+1-555-0102,2023-11-20
+Alex,Johnson,DataSystems,alex.j@datasystems.com,Male,Marketing Director,Data Analytics,Chicago,+1-555-0103,2023-09-05
+Sophie,Dubois,ParisTech,sophie.d@paristech.fr,Female,Product Manager,Software,Paris,+33-1-5555,2023-12-01
+Ivan,Petrov,RusSoft,ivan.p@russoft.ru,Male,Lead Developer,Fintech,Moscow,+7-495-1234,2023-11-15
