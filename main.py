@@ -62,7 +62,7 @@ Best regards,
 
         font_size = 16
         header_font_size = 20
-        font_path = "C:\\Windows\\Fonts\\calibri.ttf"
+        font_path = "Noto_Sans/static/NotoSans-Regular.ttf"
             
         with dpg.font_registry():
             with dpg.font(font_path, 20) as self.custom_font:
